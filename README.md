@@ -1,6 +1,6 @@
-Image processing ECN
+Image processing notes
 
-There are some files for learning image processing at Ecole Centrale Nantes.
+There are some notes taken for learning image processing
 
 -------
 
